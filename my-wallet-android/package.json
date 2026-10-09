@@ -1,0 +1,11 @@
+{
+  "name": "my-wallet-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "کیف پول من - اپ شخصی مالی و یادداشت",
+  "dependencies": {
+    "@capacitor/android": "^7.6.9",
+    "@capacitor/cli": "^7.6.9",
+    "@capacitor/core": "^7.6.9"
+  }
+}

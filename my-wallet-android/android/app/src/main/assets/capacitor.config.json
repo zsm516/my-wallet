@@ -1,0 +1,9 @@
+{
+	"appId": "com.zsm.wallet",
+	"appName": "کیف پول من",
+	"webDir": "www",
+	"backgroundColor": "#0f1115",
+	"android": {
+		"allowMixedContent": false
+	}
+}
